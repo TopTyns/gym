@@ -1,0 +1,61 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+}
+
+p {
+  margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+ul li {
+  list-style-type: none;
+}
+
+.container {
+  max-width: 1140px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+.title {
+  font-family: "Audiowide", cursive;
+  font-size: 45px;
+  font-weight: 400;
+  line-height: 55px;
+}
+
+.subtitle {
+  font-size: 16px;
+  line-height: 26px;
+}
+
+.title-decor {
+  background-image: url(../images/about/line-red.svg);
+  max-width: 220px;
+  height: 32px;
+}
+.title-decor h3 {
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 32px;
+  text-align: center;
+  color: #FFF;
+}/*# sourceMappingURL=base.css.map */

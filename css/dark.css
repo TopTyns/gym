@@ -1,0 +1,137 @@
+body {
+  background-color: #000;
+}
+
+.title {
+  color: #FFF;
+}
+
+.subtitle {
+  color: #a7a7a7;
+}
+
+.header {
+  color: #FFF;
+}
+.header a {
+  color: #FFF;
+}
+
+.preview {
+  color: #FFF;
+}
+
+.preview__subtitle {
+  color: #CDCDCD;
+}
+
+.preview__btn {
+  color: #FFF;
+}
+
+.about__block-text {
+  color: #c7c7c7;
+}
+
+.advantages__block-title {
+  color: #000;
+}
+
+.advantages__block-subtitle {
+  color: #c7c7c7;
+}
+
+.advantages__treiner-count {
+  color: #e0e0e0;
+}
+
+.advantages__treiner-subtitle {
+  color: #e0e0e0;
+}
+
+.trainers__block-name {
+  color: #EFEFEF;
+}
+
+.trainers__block-title {
+  color: #9E9E9E;
+}
+
+.price__block {
+  color: #FFF;
+}
+
+.price__top-text {
+  color: #AE0F0F;
+}
+
+.price__content-price-red {
+  color: #AE0F0F;
+}
+
+.shop__price {
+  color: #FFF;
+}
+
+.shop__btn {
+  background-color: #AE0F0F;
+}
+.shop__btn:hover {
+  background-color: #AE0F0F;
+}
+
+.shop__btn-link {
+  color: #FFF;
+}
+
+.calculate__subtitle {
+  color: #9E9E9E;
+}
+
+input[type=range] {
+  background-color: #dcdcdc;
+}
+
+input[type=range]::-webkit-slider-thumb {
+  background-color: #d61010;
+}
+
+.display {
+  box-shadow: 0 0 20px rgba(172, 171, 171, 0.589);
+  color: #FFF;
+}
+
+#weight-val, #height-val {
+  color: #FFF;
+}
+
+.consultant__title {
+  color: #FFF;
+}
+
+.consultant__number {
+  color: #FFF;
+}
+
+.consultant__number-red {
+  color: #AE0F0F;
+}
+
+.footer__title {
+  color: #FFF;
+}
+
+.footer__link {
+  color: #cfcfcf;
+}
+.footer__link:hover {
+  color: #6b6b6b;
+}
+
+.about__block-title {
+  color: #FFF;
+}
+
+.advantages__block-title {
+  color: #FFF;
+}/*# sourceMappingURL=dark.css.map */

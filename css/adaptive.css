@@ -114,6 +114,7 @@
   .calculate__wrapper {
     flex-direction: column;
     justify-content: center;
+    gap: 30px;
   }
   .calculate__left {
     margin: 0 auto;
@@ -225,6 +226,14 @@
   }
   .preview__title {
     font-size: 44px;
+  }
+}
+@media (max-width: 501px) {
+  .calculate__wrapper {
+    gap: 28px;
+  }
+  .calculate {
+    padding-top: 88px;
   }
 }
 @media (max-width: 461px) {

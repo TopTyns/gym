@@ -654,6 +654,8 @@ input[type=range]::-webkit-slider-thumb {
   font-size: 18px;
   text-align: center;
   letter-spacing: 1px;
+  width: 165px;
+  margin: 0 auto;
 }
 
 /* consultant */

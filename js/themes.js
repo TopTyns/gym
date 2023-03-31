@@ -11,6 +11,9 @@ if(curThemes == 'dark') {
 }else if(curThemes == 'light'){
     btn.innerHTML = "Темна тема";
     link.setAttribute("href", 'css/light.css');
+}else {
+    btn.innerHTML = "Темна тема";
+    link.setAttribute("href", 'css/light.css');
 }
 
 
